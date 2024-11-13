@@ -20,4 +20,15 @@ A segunda opção é uma simulação de um elevador. Conforme os botões forem p
 ### Simulador de Elevador:
 ![simulador elevador](https://github.com/user-attachments/assets/d6022ddc-01fe-4e10-a614-ca61d1ed7496)
 
+## Aonde jogar:
+*![Link para o site do jogo](https://scratch.mit.edu/projects/502085849/)
+
+## Como ver a programação por trás do projeto:
+![interior do projeto scratch](https://github.com/user-attachments/assets/2ad01c74-eba7-453d-a812-7f7e261deaae)
+
+### Interior do projeto(Variáveis; Fórmulas; Imagens, etc)
+![interior do projeto scratch2](https://github.com/user-attachments/assets/5b204eda-e860-48e8-a14c-2ee54fb2b3e4)
+
+
+
 Feito por: **Matheus Sacho**
