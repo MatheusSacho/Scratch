@@ -21,7 +21,7 @@ A segunda opção é uma simulação de um elevador. Conforme os botões forem p
 ![simulador elevador](https://github.com/user-attachments/assets/d6022ddc-01fe-4e10-a614-ca61d1ed7496)
 
 ## Aonde jogar:
-*![Link para o site do jogo](https://scratch.mit.edu/projects/502085849/)
+- [***Link para o site do Projeto***](https://scratch.mit.edu/projects/502085849/)
 
 ## Como ver a programação por trás do projeto:
 ![interior do projeto scratch](https://github.com/user-attachments/assets/2ad01c74-eba7-453d-a812-7f7e261deaae)
